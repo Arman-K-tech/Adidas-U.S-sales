@@ -12,3 +12,6 @@ monitoring profitability through Total Sales, Operating Profit, and Operating Ma
  Scope: Focus on Adidas U.S. sales, analyzing data by retailer and geographical 
 segments (Region, State, City), product categories, and sales method (e.g., 
 wholesale, direct-to-consumer).
+
+Screenshot/Demos
+Example:[Dashboard Preview] (https://github.com/Arman-K-tech/Adidas-U.S-sales/blob/main/Snapshot%20of%20Dashboard.png)
